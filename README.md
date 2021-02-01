@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+大家好，很高兴认识大家
+我叫赵灿，来自河南周口，兴趣爱好是打篮球
+路在脚下
